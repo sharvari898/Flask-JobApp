@@ -1,6 +1,7 @@
 """
 Job Application Submission Project.
 Author : Sharvari D 17-01-2026 Developed Script
+Updated by: Sharvari D 20-01-2026 added logs in the script
 
 """
 from datetime import datetime
